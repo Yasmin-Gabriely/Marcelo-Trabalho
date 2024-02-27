@@ -6,7 +6,7 @@ Este é um diagrama proposto por Marcelo Monier, com estrutura de dados como o t
 
 ## Como Utilizar
 Visualização do Diagrama:
-- Abra o arquivo (nome do arquivo) para visualizar o diagrama de processos.
+- Abra o arquivo (ENPRESA DE LOGISTICA copy (1)) para visualizar o diagrama de processos.
 ## Relacionamentos
 - muitos clientes - muitos envios/ relaçao n pra n
 - um cliente - uma empresa/ relaçao 1 pra 1
