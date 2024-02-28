@@ -8,13 +8,11 @@ Este é um diagrama proposto por Marcelo Monier, com estrutura de dados como o t
 Visualização do Diagrama:
 - Abra o arquivo (ENPRESA DE LOGISTICA copy (1)) para visualizar o diagrama de processos.
 ## Relacionamentos
-- muitos clientes - muitos envios/ relaçao n pra n
-- um cliente - uma empresa/ relaçao 1 pra 1
 - muitos clientes - muitos funcionarios/ relaçao n pra n
-- muitos funcionarios - uma empresa/ relaçao n pra 1
-- uma empresa - muitas rotas de entrega/ relaçao 1 pra n
-- uma empresa - muitos envios/ relaçao 1 pra n
- - uma rota de entrega - muitos envios/ relaçao 1 pra n
+- muitos pedidos - um transporte/ relaçao n pra 1
+- uma cliente - muitos pedidos/ relaçao 1 pra n
+- uma pedido - muitos produtos/ relaçao 1 pra n
+ - muitos produtos - uma fabrica/ relaçao n pra 1
 
 
 
